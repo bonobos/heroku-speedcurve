@@ -6,5 +6,6 @@
     "ifttt"
   ],
   "repository": "https://github.com/gesteves/heroku-speedcurve",
-  "success_url": "https://github.com/gesteves/heroku-speedcurve"
+  "success_url": "https://github.com/gesteves/heroku-speedcurve", 
+  "stack": "heroku-18"
 }
